@@ -39,13 +39,20 @@
 				<Item Name="DB Path.vi" Type="VI" URL="../DB Path.vi"/>
 				<Item Name="Create Table.vi" Type="VI" URL="../Create Table.vi"/>
 				<Item Name="elements table.vi" Type="VI" URL="../elements table.vi"/>
+				<Item Name="element A-D.vi" Type="VI" URL="../element A-D.vi"/>
+				<Item Name="Element Analog Table.vi" Type="VI" URL="../Element Analog Table.vi"/>
+				<Item Name="Element Digital Table.vi" Type="VI" URL="../Element Digital Table.vi"/>
 				<Item Name="save settings.vi" Type="VI" URL="../save settings.vi"/>
+				<Item Name="save digital settings.vi" Type="VI" URL="../save digital settings.vi"/>
 				<Item Name="save prueba.vi" Type="VI" URL="../save prueba.vi"/>
 				<Item Name="channels read.vi" Type="VI" URL="../channels read.vi"/>
 				<Item Name="Read settings.vi" Type="VI" URL="../Read settings.vi"/>
+				<Item Name="Read Digital settings.vi" Type="VI" URL="../Read Digital settings.vi"/>
 				<Item Name="Read prueba.vi" Type="VI" URL="../Read prueba.vi"/>
 				<Item Name="delete one.vi" Type="VI" URL="../delete one.vi"/>
+				<Item Name="delete one digital.vi" Type="VI" URL="../delete one digital.vi"/>
 				<Item Name="delete all.vi" Type="VI" URL="../delete all.vi"/>
+				<Item Name="delete all digital.vi" Type="VI" URL="../delete all digital.vi"/>
 				<Item Name="validacion A-D.vi" Type="VI" URL="../validacion A-D.vi"/>
 			</Item>
 			<Item Name="Show Panel.vi" Type="VI" URL="../Show Panel.vi"/>

@@ -20,6 +20,7 @@
 			<Item Name="Test Settings API.vi" Type="VI" URL="../Libraries/Settings/Test Settings API.vi"/>
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
 		</Item>
+		<Item Name="Digital typeSignal--cluster.ctl" Type="VI" URL="../Libraries/Settings/Digital typeSignal--cluster.ctl"/>
 		<Item Name="typeSignal--cluster.ctl" Type="VI" URL="../Libraries/Settings/typeSignal--cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
