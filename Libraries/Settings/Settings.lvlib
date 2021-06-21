@@ -26,12 +26,15 @@
 				<Item Name="Add Digital Signal Argument--cluster.ctl" Type="VI" URL="../Add Digital Signal Argument--cluster.ctl"/>
 				<Item Name="Delete Digital table Argument--cluster.ctl" Type="VI" URL="../Delete Digital table Argument--cluster.ctl"/>
 				<Item Name="Complete Tarea Argument--cluster.ctl" Type="VI" URL="../Complete Tarea Argument--cluster.ctl"/>
+				<Item Name="wake up HL Argument--cluster.ctl" Type="VI" URL="../wake up HL Argument--cluster.ctl"/>
+				<Item Name="Start Helper Loop Argument--cluster.ctl" Type="VI" URL="../Start Helper Loop Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="Config has been set Argument--cluster.ctl" Type="VI" URL="../Config has been set Argument--cluster.ctl"/>
+				<Item Name="Prueba has been set Argument--cluster.ctl" Type="VI" URL="../Prueba has been set Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -54,6 +57,8 @@
 				<Item Name="delete all.vi" Type="VI" URL="../delete all.vi"/>
 				<Item Name="delete all digital.vi" Type="VI" URL="../delete all digital.vi"/>
 				<Item Name="validacion A-D.vi" Type="VI" URL="../validacion A-D.vi"/>
+				<Item Name="read analog HP.vi" Type="VI" URL="../read analog HP.vi"/>
+				<Item Name="read digital HP.vi" Type="VI" URL="../read digital HP.vi"/>
 			</Item>
 			<Item Name="Show Panel.vi" Type="VI" URL="../Show Panel.vi"/>
 			<Item Name="Hide Panel.vi" Type="VI" URL="../Hide Panel.vi"/>
@@ -68,6 +73,8 @@
 			<Item Name="Delete All Table.vi" Type="VI" URL="../Delete All Table.vi"/>
 			<Item Name="Cancel.vi" Type="VI" URL="../Cancel.vi"/>
 			<Item Name="Type Signal loaded form database.vi" Type="VI" URL="../Type Signal loaded form database.vi"/>
+			<Item Name="wake up HL.vi" Type="VI" URL="../wake up HL.vi"/>
+			<Item Name="Start Helper Loop.vi" Type="VI" URL="../Start Helper Loop.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -85,6 +92,7 @@
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="Config has been set.vi" Type="VI" URL="../Config has been set.vi"/>
+		<Item Name="Prueba has been set.vi" Type="VI" URL="../Prueba has been set.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
