@@ -35,6 +35,7 @@
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="Config has been set Argument--cluster.ctl" Type="VI" URL="../Config has been set Argument--cluster.ctl"/>
 				<Item Name="Prueba has been set Argument--cluster.ctl" Type="VI" URL="../Prueba has been set Argument--cluster.ctl"/>
+				<Item Name="Digital has been set Argument--cluster.ctl" Type="VI" URL="../Digital has been set Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -93,6 +94,7 @@
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="Config has been set.vi" Type="VI" URL="../Config has been set.vi"/>
 		<Item Name="Prueba has been set.vi" Type="VI" URL="../Prueba has been set.vi"/>
+		<Item Name="Digital has been set.vi" Type="VI" URL="../Digital has been set.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

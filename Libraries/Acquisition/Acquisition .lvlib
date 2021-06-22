@@ -24,6 +24,8 @@
 				<Item Name="Start Analog AQ Argument--cluster.ctl" Type="VI" URL="../Start Analog AQ Argument--cluster.ctl"/>
 				<Item Name="Start Digital AQ Argument--cluster.ctl" Type="VI" URL="../Start Digital AQ Argument--cluster.ctl"/>
 				<Item Name="Stop AQ Argument--cluster.ctl" Type="VI" URL="../Stop AQ Argument--cluster.ctl"/>
+				<Item Name="Put Digital HL to Sleep Argument--cluster.ctl" Type="VI" URL="../Put Digital HL to Sleep Argument--cluster.ctl"/>
+				<Item Name="Stop Digital AQ Argument--cluster.ctl" Type="VI" URL="../Stop Digital AQ Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -31,6 +33,7 @@
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="analog data Argument--cluster.ctl" Type="VI" URL="../analog data Argument--cluster.ctl"/>
 				<Item Name="digital data Argument--cluster.ctl" Type="VI" URL="../digital data Argument--cluster.ctl"/>
+				<Item Name="Digital Metdata has been acquired Argument--cluster.ctl" Type="VI" URL="../Digital Metdata has been acquired Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -43,6 +46,7 @@
 			<Item Name="Start Analog AQ.vi" Type="VI" URL="../Start Analog AQ.vi"/>
 			<Item Name="Start Digital AQ.vi" Type="VI" URL="../Start Digital AQ.vi"/>
 			<Item Name="Stop AQ.vi" Type="VI" URL="../Stop AQ.vi"/>
+			<Item Name="Stop Digital AQ.vi" Type="VI" URL="../Stop Digital AQ.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -61,6 +65,7 @@
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="analog data.vi" Type="VI" URL="../analog data.vi"/>
 		<Item Name="digital data.vi" Type="VI" URL="../digital data.vi"/>
+		<Item Name="Digital Metdata has been acquired.vi" Type="VI" URL="../Digital Metdata has been acquired.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -87,6 +92,7 @@
 		<Item Name="Put HL to Sleep.vi" Type="VI" URL="../Put HL to Sleep.vi"/>
 		<Item Name="WakeUp Analog HL.vi" Type="VI" URL="../WakeUp Analog HL.vi"/>
 		<Item Name="WakeUp Digital HL.vi" Type="VI" URL="../WakeUp Digital HL.vi"/>
+		<Item Name="Put Digital HL to Sleep.vi" Type="VI" URL="../Put Digital HL to Sleep.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
